@@ -1,7 +1,6 @@
 # CSC-540
 
-Project narrative:
-This is the description of the main project for the course Database Management Systems. The details are likely to change over time, so please visit the online version again. 
+This is the description of the main project for the course Database Management Systems. 
 
 You are to build a database system, WolfPubDb, for the WolfCity publishing house. The database system will be used by the management and editors of the publishing house, and should maintain information on at least the following: 
 
